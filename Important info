@@ -1,0 +1,1 @@
+This is a basic image orientation detection and correction project that i have created using pytesseract and pillow it can correct orienttaion of almost all images but may have some issues with images that have lower dpi
