@@ -1,0 +1,74 @@
+2024-06-24 19:40:09,516:INFO:Starting OCR process
+2024-06-24 19:40:09,516:ERROR:Error in processiong image [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
+2024-06-24 19:40:09,516:ERROR:Error in OCR process: [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
+2024-06-24 19:40:30,515:INFO:Starting OCR process
+2024-06-24 19:40:30,515:ERROR:Error in processiong image [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
+2024-06-24 19:40:30,515:ERROR:Error in OCR process: [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
+2024-06-24 19:41:52,704:INFO:Starting OCR process
+2024-06-24 19:41:53,735:ERROR:TesseractError: (1, "Error, unknown command line argument '--dpi300'")
+2024-06-24 19:41:53,735:ERROR:Error in OCR process: (1, "Error, unknown command line argument '--dpi300'")
+2024-06-24 19:42:43,588:INFO:Starting OCR process
+2024-06-24 19:42:46,342:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-24 19:42:46,342:INFO:Rotate angle: 270 degree
+2024-06-24 19:42:46,727:INFO:Rotated image saved
+2024-06-24 19:42:46,733:INFO:OCR process completed successfully
+2024-06-24 19:43:46,176:INFO:Starting OCR process
+2024-06-24 19:43:49,012:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-24 19:43:49,012:INFO:Rotate angle: 270 degree
+2024-06-24 19:43:49,535:INFO:Rotated image saved
+2024-06-24 19:43:49,535:INFO:OCR process completed successfully
+2024-06-25 10:37:11,636:INFO:Starting OCR process
+2024-06-25 10:37:15,764:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-25 10:37:15,764:INFO:Rotate angle: 270 degree
+2024-06-25 10:37:16,181:INFO:Rotated image saved
+2024-06-25 10:37:16,181:INFO:OCR process completed successfully
+2024-06-25 11:39:27,624:INFO:Starting OCR process
+2024-06-25 11:39:31,583:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-25 11:39:31,583:INFO:Rotate angle: 270 degree
+2024-06-25 11:39:32,053:INFO:Rotated image saved
+2024-06-25 11:39:32,053:INFO:OCR process completed successfully2024-06-26 10:36:58,363:INFO:Starting OCR process
+2024-06-26 10:37:02,088:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-26 10:37:02,088:INFO:Rotate angle: 270 degree
+2024-06-26 10:37:02,447:INFO:Rotated image saved
+2024-06-26 10:37:02,447:INFO:OCR process completed successfully
+2024-06-28 19:38:38,817:INFO:Starting OCR process
+2024-06-28 19:38:43,003:INFO:OSD output: Page number: 0
+Orientation in degrees: 90
+Rotate: 270
+Orientation confidence: 28.69
+Script: Latin
+Script confidence: 20.56
+
+2024-06-28 19:38:43,003:INFO:Rotate angle: 270 degree
+2024-06-28 19:38:43,587:INFO:Rotated image saved
+2024-06-28 19:38:43,587:INFO:OCR process completed successfully
