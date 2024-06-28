@@ -1,0 +1,7 @@
+tesseract_cmd: "path_to_the _tesseract_executible_file"
+input_image_path: "input_image_path"
+output_image_path: "Enhanced_image_path"
+rotated_image_path: "Output_image_path"
+dpi: 300
+contrast_factor: 2.0
+log_file: "logs/ocr.log"
