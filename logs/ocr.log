@@ -1,12 +1,3 @@
-2024-06-24 19:40:09,516:INFO:Starting OCR process
-2024-06-24 19:40:09,516:ERROR:Error in processiong image [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
-2024-06-24 19:40:09,516:ERROR:Error in OCR process: [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
-2024-06-24 19:40:30,515:INFO:Starting OCR process
-2024-06-24 19:40:30,515:ERROR:Error in processiong image [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
-2024-06-24 19:40:30,515:ERROR:Error in OCR process: [Errno 2] No such file or directory: 'C:\\Users\\laksh\\Desktop\\python\\OCR\\image detection\\test_image.png'
-2024-06-24 19:41:52,704:INFO:Starting OCR process
-2024-06-24 19:41:53,735:ERROR:TesseractError: (1, "Error, unknown command line argument '--dpi300'")
-2024-06-24 19:41:53,735:ERROR:Error in OCR process: (1, "Error, unknown command line argument '--dpi300'")
 2024-06-24 19:42:43,588:INFO:Starting OCR process
 2024-06-24 19:42:46,342:INFO:OSD output: Page number: 0
 Orientation in degrees: 90
